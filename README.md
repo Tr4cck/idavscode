@@ -6,7 +6,7 @@
 
 <p align="center">
   [中文]
-  [<a href="doc/README-en.md">English</a>]
+  [<a href="README-en.md">English</a>]
 </p>
 
 ## Features
@@ -17,8 +17,8 @@
 
 
 1. `python >= 3.10` # 理论上替换掉 `match case` 语句应该就可以3.x全兼容
-3. `python -m pip install debugpy tornado`
-2. [Python extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+2. `python -m pip install debugpy tornado`
+3. [Python extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 
 ## Install
